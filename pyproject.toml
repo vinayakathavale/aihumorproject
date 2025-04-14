@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "monsterui>=1.0.18",
+    "python-fasthtml>=0.12.0",
 ]
